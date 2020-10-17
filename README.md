@@ -14,4 +14,9 @@ Copy the contents of the `server.js` file on **this** GitHub project and paste i
 At the bottom, click Tools then Console. Enter `npm install noblox.js`.
 
 While that's downloading you'll need to get a cookie viewer extension. This depends on your browser.
-*Chrome: [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en)
+* Chrome: [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en)
+* Edge: [Cookie Editor](https://microsoftedge.microsoft.com/addons/detail/cookie-editor/ajfboaconbpkglpfanbmlfgojgndmhmc?hl=en-US%3Fhl%3Den-US)
+Download the appropriate extension, then go to the Roblox website. Click on the extension and search for the .ROBLOSECURITY token.
+Copy the value of the token.
+
+Go into
