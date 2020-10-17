@@ -14,3 +14,4 @@ Copy the contents of the `server.js` file on **this** GitHub project and paste i
 At the bottom, click Tools then Console. Enter `npm install noblox.js`.
 
 While that's downloading you'll need to get a cookie viewer extension. This depends on your browser.
+*Chrome: [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en)
