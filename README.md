@@ -12,3 +12,5 @@ Now you're in the project, but **it is public so anyone can see it.** To fix thi
 Go to `server.js` in your project and delete everything in it.
 Copy the contents of the `server.js` file on **this** GitHub project and paste it into the `server.js` file in the Glitch project.
 At the bottom, click Tools then Console. Enter `npm install noblox.js`.
+
+While that's downloading you'll need to get a cookie viewer extension. This depends on your browser.
