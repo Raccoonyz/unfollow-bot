@@ -17,7 +17,12 @@ While that's downloading you'll need to get a cookie viewer extension. This depe
 * Chrome: [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en)
 * Edge: [Cookie Editor](https://microsoftedge.microsoft.com/addons/detail/cookie-editor/ajfboaconbpkglpfanbmlfgojgndmhmc?hl=en-US%3Fhl%3Den-US)
 
-Download the appropriate extension, then go to the Roblox website. Click on the extension and search for the .ROBLOSECURITY cookie.
+Download the appropriate extension, then go to the Roblox website. 
+Go to your Profile page. Look up at the URL. You should see a string of numbers between users/ and /profile. Copy those numbers.
+Now go back to the `server.js` Glitch file. Go to the very top and paste the string of numbers between the first two ".
+Then go back to the Roblox website.
+Click on the extension and search for the .ROBLOSECURITY cookie.
 Copy the value of the cookie.
 
-Go into the `server.js` file
+Go back to the `server.js` file and paste the cookie's value between the second pair of "s. 
+Wait a little bit, and if you did it correctly, it should start unfollowing everyone you have followed.
