@@ -6,7 +6,7 @@ function loop(f, number) {
   setTimeout(function() {
     console.log(number);
     noblox.unfollow(f[number].id);
-    yes(f, number + 1);
+    loop(f, number + 1);
   }, 500);
 }
 
